@@ -1,0 +1,10 @@
+pypdf
+pdfplumber
+python-pptx
+python-docx
+sentence-transformers==3.0.1
+scikit-learn
+numpy
+anthropic
+tqdm
+pytest
